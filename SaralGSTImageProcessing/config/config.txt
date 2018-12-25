@@ -1,0 +1,11 @@
+[DEFAULT]
+output_height = 100
+output_width = 50
+
+[min]
+min_height = 50
+min_width = 40
+
+[max]
+max_height = 100
+max_width = 90
